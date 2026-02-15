@@ -1,13 +1,5 @@
 // JavaScript Document
 
-/*
-
-TemplateMo 596 Electric Xtra
-
-https://templatemo.com/tm-596-electric-xtra
-
-*/
-
 // Create floating particles
         function createParticles() {
             const particlesContainer = document.getElementById('particles');
@@ -208,4 +200,5 @@ https://templatemo.com/tm-596-electric-xtra
                     }, 200);
                 }
             });
+
         }, 3000);
